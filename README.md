@@ -1,2 +1,2 @@
 # ShapeAI
-Final project
+Final project on Fake News Detection 
